@@ -12,7 +12,7 @@ key = "target_industry"
 label = "Target Industry"
 description = "Industry vertical to focus on (e.g. SaaS, fintech, healthcare, e-commerce)"
 setting_type = "text"
-default = "default = "commercial refrigeration, cold chain, HVAC, heat pumps, compressor manufacturers, professional cooking equipment, coffee machines, hospitality equipment, light medical devices"
+default =  "commercial refrigeration, cold chain, HVAC, heat pumps, compressor manufacturers, professional cooking equipment, coffee machines, hospitality equipment, light medical devices"
 
 [[settings]]
 key = "target_role"
