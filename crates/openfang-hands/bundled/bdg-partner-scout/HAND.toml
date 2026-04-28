@@ -1,6 +1,6 @@
-id = "lead"
-name = "Lead Hand"
-description = "Autonomous lead generation — discovers, enriches, and delivers qualified leads on a schedule"
+id = "bdg-partner-scout"
+name = "BDG Partner Scout"
+description = "Industrial partner scouting for BDG — finds companies with technical needs matching BDG competences"
 category = "data"
 icon = "\U0001F4CA"
 tools = ["shell_exec", "file_read", "file_write", "file_list", "web_fetch", "web_search", "memory_store", "memory_recall", "schedule_create", "schedule_list", "schedule_delete", "knowledge_add_entity", "knowledge_add_relation", "knowledge_query"]
@@ -12,7 +12,7 @@ key = "target_industry"
 label = "Target Industry"
 description = "Industry vertical to focus on (e.g. SaaS, fintech, healthcare, e-commerce)"
 setting_type = "text"
-default = ""
+default = "default = "commercial refrigeration, cold chain, HVAC, heat pumps, compressor manufacturers, professional cooking equipment, coffee machines, hospitality equipment, light medical devices"
 
 [[settings]]
 key = "target_role"
